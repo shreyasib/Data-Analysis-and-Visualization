@@ -4,12 +4,12 @@
 
 
 ## Data Cleaning
-1. Treat the nulls
-2. Check for duplicates
-3. Drop unneeded columns
+1. Drop unneeded columns
+2. Check for missing values
+3. Check for duplicates
 4. Split columns
-5. Remove outliers and invalid data
-6. Fixing data types
+5. Fix data types
+6. Check for invalid data
 
 ## Data Analysis & Visualizaion
 
