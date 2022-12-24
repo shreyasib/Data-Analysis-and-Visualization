@@ -17,3 +17,11 @@ Data Source: https://datahub-miamigis.opendata.arcgis.com/datasets/6acb8f4ed62c4
 
 
 ## Key Findings
+1. Tuesday has the highest number of tickets while Sunday has the least.
+2. October has the highest number of tickets while April has the least out of all the months.
+3. Most tickets have goal days set as below 20 days.
+4. Most tickets are actually completed under 10 days.
+5. Issue type - Solid Waste is the most common service request.
+6. Standard priority tickets are most common.
+7. Common method of reporting ticket is through phone.
+
