@@ -10,11 +10,11 @@ The dataset contains service request activity for Miami. It includes services co
 
 
 
-## Data Cleaning
+## Data Cleaning & Manipulation
 1. Drop unneeded columns
 2. Check for missing values
 3. Check for duplicates
-4. Split columns
+4. Create Split columns
 5. Fix data types
 6. Check for invalid data
 
