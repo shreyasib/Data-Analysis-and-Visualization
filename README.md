@@ -6,7 +6,7 @@ Data Source: https://datahub-miamigis.opendata.arcgis.com/datasets/6acb8f4ed62c4
 
 ## Introduction
 
-The following dataset contains service request activity for Miami. The data sets include services completed proactively by the different departments and requests submitted by citizens via phone (311), and other self service channels .
+The dataset contains service request activity for Miami. It includes services completed proactively by different departments and requests submitted by citizens via phone(311), and other self service channels.
 
 
 
