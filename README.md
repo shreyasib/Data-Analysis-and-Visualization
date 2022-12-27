@@ -19,14 +19,24 @@ The dataset contains service request activity for Miami. It includes services co
 6. Check for invalid data
 
 ## Data Analysis & Visualizaion
-
+1. Which days in the week typically report high service requests?
+2. Which month received the highest service requests?
+3. Which year received the highest service requests?
+4. What is the average goal time set for the service requests?
+5. How long does it actually take to complete the service requests?
+6. What is the trend between goal days and actual days to complete the service requests?
+7. What are the most requested issues?
+8. Which Case owners receive the most service requests?
+9. Which Ticket priority receives the most service requests?
+10. What are the common methods to request a service?
 
 ## Key Findings
-1. Tuesday has the highest number of tickets while Sunday has the least.
-2. October has the highest number of tickets while April has the least out of all the months.
-3. Most tickets have goal days set as below 20 days.
-4. Most tickets are actually completed under 10 days.
-5. Issue type - Solid Waste is the most common service request.
-6. Standard priority tickets are most common.
-7. Common method of reporting ticket is through phone.
-
+* Tuesday has the highest number of tickets followed by Thursday and Wednesday.
+* October has the highest number of service requests
+* 2022 has the highest number of servie requests
+* Most tickets have goal days set as below 20 days.
+* Most tickets are actually completed under 10 days.
+* The most common issue type is GARCONDM.
+* Solid Waste is the most common type of issue case owner.
+* The Standard priority ticket is the most common one.
+* Phone is the most common method to request for services. 
