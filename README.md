@@ -4,6 +4,11 @@ Data Source: https://datahub-miamigis.opendata.arcgis.com/datasets/6acb8f4ed62c4
 
 #### Data Cleaning, Analysis and Visualization
 
+## Introduction
+
+The following dataset contains service request activity for Miami. The data sets include services completed proactively by the different departments and requests submitted by citizens via phone (311), and other self service channels .
+
+
 
 ## Data Cleaning
 1. Drop unneeded columns
