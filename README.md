@@ -3,6 +3,7 @@
 Data Source: https://datahub-miamigis.opendata.arcgis.com/datasets/6acb8f4ed62c4d248e0cd244f761ca25_0/about
 
 #### Data Cleaning, Analysis and Visualization
+#### Libraries: pandas, numpy, matplotlib, seaborn
 
 ## Introduction
 
