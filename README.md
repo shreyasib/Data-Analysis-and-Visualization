@@ -41,3 +41,9 @@ The dataset contains service request activity for Miami. It includes services co
 * Solid Waste is the most common type of issue case owner.
 * The Standard priority ticket is the most common one.
 * Phone is the most common method to request for services. 
+
+## Strategic Recommendations
+After the analysis, we share our high-level business recommendations:
+
+1. Implement a system for tracking and monitoring service requests. This could include setting up a system for assigning service request numbers, establishing a timeline for resolution, and providing regular updates to residents about the status of their request.
+2. Consider implementing a system for soliciting feedback and suggestions from residents about how to improve the 311 service. This could help identify areas where the service could be improved, and help ensure that it is meeting the needs of the community.
