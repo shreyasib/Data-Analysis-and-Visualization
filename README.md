@@ -46,4 +46,5 @@ The dataset contains service request activity for Miami. It includes services co
 After the analysis, we share our high-level business recommendations:
 
 1. Implement a system for tracking and monitoring service requests. This could include setting up a system for assigning service request numbers, establishing a timeline for resolution, and providing regular updates to residents about the status of their request.
-2. Consider implementing a system for soliciting feedback and suggestions from residents about how to improve the 311 service. This could help identify areas where the service could be improved, and help ensure that it is meeting the needs of the community.
+2. Increase the availability of the 311 service by increasing staffing levels, or implementing a system that allows residents to submit service requests through a mobile app.
+3. Consider implementing a system for soliciting feedback and suggestions from residents about how to improve the 311 service. This could help identify areas where the service could be improved, and help ensure that it is meeting the needs of the community.
